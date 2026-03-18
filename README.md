@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Gabriel!
+I'm an Information Engineering student based in Cluj-Napoca, passionate about low-level systems, backend development, and building a strong foundation for a career in Cybersecurity.
 
-<!--
-**Gabriel2420/Gabriel2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack & Interests:
 
-Here are some ideas to get you started:
+Languages: C/C++, Java, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Environments: Linux, Windows OS Architecture
+
+Focus Areas: Systems Security, Object-Oriented Design, AI Automation
+
+🌱 Currently learning:
+
+Deepening my understanding of Linux environments, network fundamentals, and secure coding practices.
+
+🤝 Beyond the code:
+
+I'm a Core Organizer at AMiCUS, a student association, coordinating large-scale charity events and managing corporate tech sponsorships. I believe great engineering requires great communication and teamwork.
+
+📫 Let's connect:
+
+LinkedIn: https://www.linkedin.com/in/gabrielnasui/
+
+Email: nasuigabriel70@gmail.com
