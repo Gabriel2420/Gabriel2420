@@ -3,11 +3,11 @@ I'm an Information Engineering student based in Cluj-Napoca, passionate about lo
 
 💻 Tech Stack & Interests:
 
-Languages: C/C++, Java, C#
+Languages: C/C++, Java, C#, SQL
 
 Environments: Linux, Windows OS Architecture
 
-Focus Areas: Systems Security, Object-Oriented Design, AI Automation
+Focus Areas: Systems Security, Object-Oriented Design, AI Automation, Data Engineering
 
 🌱 Currently learning:
 
